@@ -1,0 +1,3 @@
+[submodule "src/QOnlineTranslator"]
+	path = src/QOnlineTranslator
+	url = https://github.com/LiteracyFanatic/QOnlineTranslator
